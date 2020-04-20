@@ -188,8 +188,10 @@ https://github.com/QueenieCplusplus/API_getter (argparser 參數化和自動化�
 https://github.com/QueenieCplusplus/Backend_Script3/tree/master/captchas_crack (破解驗證 using pytesseract)
 
 (2)selenium (selenium)
+https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
 
 (3)jwt (token generator)
+
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
 
