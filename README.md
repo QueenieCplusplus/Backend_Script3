@@ -152,15 +152,21 @@ Time tool
 
     return res.content
     
-Time & Requests & datetime https://github.com/QueenieCplusplus/Backend_Script3/tree/master/url_parser (auto_parser)
+Time & Requests & datetime 
+
+(1) url_parser using requests
     
 Parser https://github.com/QueenieCplusplus/Py_Parser (Requests tool)
 
 Crawler https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Crawler.py
 
-Scrapy https://github.com/QueenieCplusplus/Py_Scrapy
-
 https://github.com/QueenieCplusplus/API_getter (argparser 參數化和自動化的爬蟲)
+
+https://github.com/QueenieCplusplus/CrawlerByUsingPython
+
+https://github.com/QueenieCplusplus/Pandas_4_xls
+
+Scrapy https://github.com/QueenieCplusplus/Py_Scrapy
 
 Firebase https://github.com/QueenieCplusplus/Backend_Script3/blob/master/FirebaseDB.md
 
@@ -185,22 +191,18 @@ SMTP 寄信 =>
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 
 SMB 寄信 =>
-(1) smb
+(2) smb
 
 # 自動登入、猜測驗證碼與光學文字辨識、資料庫、網站、編碼與圖片修改=>
 
-(2)selenium (selenium)
+(3)selenium (selenium)
 https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
 
-(3)jwt (token generator)
+(4)jwt (token generator)
 https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
 
-(4)破解驗證 using pytesseract)
+(5)破解驗證 using pytesseract)
 to do...
-
-https://github.com/QueenieCplusplus/CrawlerByUsingPython
-
-https://github.com/QueenieCplusplus/Pandas_4_xls
 
 https://github.com/QueenieCplusplus/IPython (real-time data analysis)
 
