@@ -195,7 +195,7 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 SMB 寄信 =>
 (2) smb
 
-# 自動登入與編解碼、猜測驗證碼與光學文字辨識、資料庫、網站、圖片修改
+# 自動登入與編解碼、猜測驗證碼與光學文字辨識(圖片修改)、資料庫、網站
 
 (3)selenium (proxy server using web driver)
 https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
@@ -206,7 +206,10 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
 https://github.com/QueenieCplusplus/SSCP_AccessControl/tree/master/token_generator
 
 (5)破解驗證 using pytesseract)
-to do...
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/pytesseract.py
+
+Graphic 圖片修改 
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Turtle.py
 
 Vsphere 虛擬環境套件 =>
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/socket_service.py
@@ -225,9 +228,6 @@ https://github.com/QueenieCplusplus/apiscraper (flask)
 
 網站框架 =>
 https://github.com/QueenieCplusplus/Py_Django (django)
-
-Graphic 圖片修改 
-https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Turtle.py
 
 # 人工智慧與大數據
 
