@@ -105,7 +105,7 @@ https://github.com/QueenieCplusplus/PyPkgModuleFunc
 
 https://github.com/QueenieCplusplus/pip_4_py
 
-其他應用 =>
+# 時間工具包、打 API、爬蟲、雲端、上傳、寄信 =>
 
 Time tool
 
