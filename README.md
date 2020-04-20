@@ -195,7 +195,7 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 SMB 寄信 =>
 (2) smb
 
-# 自動登入與編解碼、猜測驗證碼與光學文字辨識(圖片修改)、資料庫、網站
+# 自動登入與編解碼、光學文字辨識(圖片修改)與猜測驗證碼、資料庫、網站
 
 (3)selenium (proxy server using web driver)
 https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
@@ -205,10 +205,13 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
 
 https://github.com/QueenieCplusplus/SSCP_AccessControl/tree/master/token_generator
 
-(5)破解驗證 using pytesseract)
+(5)光學文字辨識 (using cv2 & pytesseract)
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/pytesseract.py
 
-(6) using imutils
+(6)驗證碼 Captcha (using Keras, CV2, and pytesseract)
+
+
+(7) using imutils
 todo
 
 Graphic 圖片修改 
