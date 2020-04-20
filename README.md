@@ -160,6 +160,8 @@ Crawler https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Crawler.
 
 Scrapy https://github.com/QueenieCplusplus/Py_Scrapy
 
+https://github.com/QueenieCplusplus/API_getter (argparser 參數化和自動化的爬蟲)
+
 Firebase https://github.com/QueenieCplusplus/Backend_Script3/blob/master/FirebaseDB.md
 
 GCP
@@ -186,8 +188,6 @@ SMB 寄信 =>
 (1) smb
 
 # 自動登入、猜測驗證碼與光學文字辨識、資料庫、網站、編碼與圖片修改=>
-
-https://github.com/QueenieCplusplus/API_getter (argparser 參數化和自動化的爬蟲)
 
 (2)selenium (selenium)
 https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
