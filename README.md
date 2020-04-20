@@ -212,6 +212,7 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/pytesseract.py
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/captcha.py
 
 (7)圖片處理 using imutils and call resize()
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/image_converter.py
 
     (h, w) = image.shape[:2]
 
