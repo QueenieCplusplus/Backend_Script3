@@ -1,6 +1,7 @@
 # 2020, 4/20, pm 3:40, by Vivy (Queen)
 # detect letter in Image
 # CV2 usage: pip install opencv-python
+# pip install pytesseract
 
 import numpy as np
 import pytesseract as ptct # call its fun called img_to_string
