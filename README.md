@@ -204,8 +204,6 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
 (5)破解驗證 using pytesseract)
 to do...
 
-https://github.com/QueenieCplusplus/IPython (real-time data analysis)
-
 通訊端 Socket =>
 https://github.com/QueenieCplusplus/Backend_Script3/tree/master/socket
 
@@ -228,6 +226,8 @@ https://github.com/QueenieCplusplus/apiscraper (flask)
 https://github.com/QueenieCplusplus/Py_Django (django)
 
 # NLTK tool 自然語言套件組 
+
+資料分析 https://github.com/QueenieCplusplus/IPython (real-time data analysis)
 
 TBD...
 
