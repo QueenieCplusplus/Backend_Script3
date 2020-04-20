@@ -179,7 +179,7 @@ SMTP 寄信 =>
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 
 SMB 寄信 =>
-https://github.com/QueenieCplusplus/Backend_Script3/tree/master/smb
+(1) smb
 
 爬蟲專案、自動登入、猜測驗證碼、表單填寫、上傳圖片、編碼、檔案格式、運算、圖片修改、光學文字辨識=>
 
@@ -187,9 +187,9 @@ https://github.com/QueenieCplusplus/API_getter (argparser 參數化和自動化�
 
 https://github.com/QueenieCplusplus/Backend_Script3/tree/master/captchas_crack (破解驗證 using pytesseract)
 
-https://github.com/QueenieCplusplus/Backend_Script3/tree/master/selenium (selenium)
+(2)selenium (selenium)
 
-https://github.com/QueenieCplusplus/Backend_Script3/tree/master/jwt (token generator)
+(3)jwt (token generator)
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
 
