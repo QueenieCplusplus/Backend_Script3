@@ -1,7 +1,7 @@
 # Backend_Script3
 後端腳本語言 Python
 
-# 開發流程 =>
+# 開發流程 
 
 軟體開發設計流程
 其中 SA <-> SD <-> PG 完成 IPO，輸入 -> 流程 -> 輸出的目標。 
@@ -32,7 +32,7 @@ SA 注重 IPO >>> SD 注重元件拼圖 >>> PG 注重功能性實作與單元測
 
 plz see code.
 
-# 程式設計基礎 =>
+# 程式設計基礎 
 
 特殊運算符號 =>
 
@@ -109,7 +109,7 @@ https://github.com/QueenieCplusplus/PyPkgModuleFunc
 
 https://github.com/QueenieCplusplus/pip_4_py
 
-# 時間工具包、打 API、爬蟲、雲端、上傳、寄信 =>
+# 時間工具包、打 API、爬蟲、雲端、上傳、寄信 
 
 Time tool
 
@@ -193,7 +193,7 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 SMB 寄信 =>
 (2) smb
 
-# 自動登入、猜測驗證碼與光學文字辨識、資料庫、網站、編碼與圖片修改=>
+# 自動登入、猜測驗證碼與光學文字辨識、資料庫、網站、編碼與圖片修改
 
 (3)selenium (selenium)
 https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
@@ -227,8 +227,11 @@ https://github.com/QueenieCplusplus/apiscraper (flask)
 網站框架 =>
 https://github.com/QueenieCplusplus/Py_Django (django)
 
-NLTK tool 自然語言套件組 =>
+# NLTK tool 自然語言套件組 
+
 TBD...
+
+# 相關連結
 
 Python
 https://www.python.org/downloads/
