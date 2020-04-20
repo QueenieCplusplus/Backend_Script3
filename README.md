@@ -211,8 +211,17 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/pytesseract.py
 (6)驗證碼 Captcha (using Keras, CV2, and pytesseract)
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/captcha.py
 
-(7) using imutils
-todo
+(7) using imutils and call resize()
+
+    (h, w) = image.shape[:2]
+
+    # if the width > height, then resize along
+    if w > h:
+        image = imutils.resize(image, width=width)
+
+    # otherwise, h > w
+    else:
+        image = imutils.resize(image, height=height)
 
 Graphic 圖片修改 
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Turtle.py
