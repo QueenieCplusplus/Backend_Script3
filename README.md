@@ -181,7 +181,7 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 SMB 寄信 =>
 (1) smb
 
-# 自動登入、猜測驗證碼與光學文字辨識、表單填寫與上傳圖片、編碼與圖片修改=>
+# 自動登入、猜測驗證碼與光學文字辨識、資料庫、網站、編碼與圖片修改=>
 
 https://github.com/QueenieCplusplus/API_getter (argparser 參數化和自動化的爬蟲)
 
