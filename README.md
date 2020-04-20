@@ -173,9 +173,6 @@ Firebase https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Firebas
 GCP
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/GoogleAPI.py
 
-Graphic
-https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Turtle.py
-
 Eazy Used in Bank
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/LoanCaculator.py
 
@@ -218,6 +215,10 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/post_data.py (po
 https://github.com/QueenieCplusplus/PyMySQL (pymysql)
 
 https://github.com/QueenieCplusplus/SQLAlchemy_app (sqlalchemy)
+
+Graphic 圖片修改 
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Turtle.py
+
 
 羽量級網站 =>
 https://github.com/QueenieCplusplus/apiscraper (flask)
