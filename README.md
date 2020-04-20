@@ -201,9 +201,6 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
 (5)破解驗證 using pytesseract)
 to do...
 
-通訊端 Socket =>
-https://github.com/QueenieCplusplus/Backend_Script3/tree/master/socket
-
 Vsphere 虛擬環境套件 =>
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/socket_service.py
 
