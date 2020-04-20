@@ -209,7 +209,6 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl/tree/master/token_generat
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/pytesseract.py
 
 (6) using imutils
-
 todo
 
 Graphic 圖片修改 
@@ -239,7 +238,7 @@ https://github.com/QueenieCplusplus/Py_Django (django)
 
 NTP 套件 todo
 
-Keras 套件 todo
+(7) Keras 套件 todo
 
 # 相關連結
 
