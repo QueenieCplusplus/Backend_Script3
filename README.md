@@ -109,6 +109,17 @@ https://github.com/QueenieCplusplus/PyPkgModuleFunc
 
 https://github.com/QueenieCplusplus/pip_4_py
 
+# 運算的應用情境
+
+Eazy Used in Bank 銀行貸款 =>
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/LoanCaculator.py
+
+BMI for Health 身體健康指標 =>
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/BMI.py
+
+位元與位元組和頻寬與流量, 網路底層運算 =>
+https://github.com/QueenieCplusplus/Band_Width/blob/master/dvd_bandwidth_calculation.py
+
 # 時間工具包、打 API、爬蟲、雲端、上傳、寄信 
 
 Time tool
@@ -172,12 +183,6 @@ Firebase https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Firebas
 
 GCP
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/GoogleAPI.py
-
-Eazy Used in Bank
-https://github.com/QueenieCplusplus/Backend_Script3/blob/master/LoanCaculator.py
-
-BMI for Health
-https://github.com/QueenieCplusplus/Backend_Script3/blob/master/BMI.py
 
 Form & Post 留言版 =>
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/PostForm.py
