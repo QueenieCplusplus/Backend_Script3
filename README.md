@@ -198,6 +198,8 @@ https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
 (4)jwt (token generator)
 https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
 
+https://github.com/QueenieCplusplus/SSCP_AccessControl/tree/master/token_generator
+
 (5)破解驗證 using pytesseract)
 to do...
 
