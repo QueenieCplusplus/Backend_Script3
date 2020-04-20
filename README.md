@@ -200,6 +200,9 @@ https://github.com/QueenieCplusplus/IPython (real-time data analysis)
 通訊端 Socket =>
 https://github.com/QueenieCplusplus/Backend_Script3/tree/master/socket
 
+Vsphere 虛擬環境套件 =>
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/socket_service.py
+
 資料庫驅動程式 =>
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/post_data.py (post)
 
