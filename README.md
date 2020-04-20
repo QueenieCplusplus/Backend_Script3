@@ -262,6 +262,7 @@ file:///Library/Frameworks/Python.framework/Versions/3.8/Resources/English.lproj
 other resources =>
 https://github.com/QueenieCplusplus/python-cheatsheet
 
+https://github.com/QueenieCplusplus/Backend_Script3-private
 
 
 
