@@ -229,11 +229,11 @@ https://github.com/QueenieCplusplus/Py_Django (django)
 Graphic 圖片修改 
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/Turtle.py
 
-# NLTK tool 自然語言套件組 
+# 人工智慧與大數據
 
 資料分析 https://github.com/QueenieCplusplus/IPython (real-time data analysis)
 
-TBD...
+NTP 套件 todo
 
 # 相關連結
 
