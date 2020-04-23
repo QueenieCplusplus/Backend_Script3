@@ -65,6 +65,8 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/random.randint.p
 
 https://github.com/QueenieCplusplus/Backend_Script3/blob/master/logics.py
 
+https://github.com/QueenieCplusplus/Backend_Script3/blob/master/type_checker.py (Type == isinstance)
+
 重複迴圈 =>
 
 https://github.com/QueenieCplusplus/Py_Loop (project)
