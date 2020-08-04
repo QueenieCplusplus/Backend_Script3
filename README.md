@@ -200,7 +200,10 @@ SMB 寄信 =>
 # 自動登入與編解碼、光學文字辨識(圖片修改)與猜測驗證碼、資料庫、網站
 
 (3)selenium (proxy server using web driver)
+
 https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/selenium.py
+
+https://github.com/QueenieCplusplus/Crawler3
 
 (4)jwt (token generator)
 https://github.com/QueenieCplusplus/SSCP_AccessControl#token-generator
