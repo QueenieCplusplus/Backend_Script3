@@ -197,7 +197,7 @@ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 SMB 寄信 =>
 (2) smb
 
-# 自動登入與編解碼、光學文字辨識(圖片修改)與猜測驗證碼、資料庫、網站
+# 自動登入與編解碼、光學文字辨識(圖片修改)與猜測驗證碼、資料庫、網站、雲端訊息罐頭
 
 (3)selenium (proxy server using web driver)
 
@@ -251,6 +251,9 @@ https://github.com/QueenieCplusplus/apiscraper (flask)
 
 網站框架 =>
 https://github.com/QueenieCplusplus/Py_Django (django)
+
+雲端訊息罐頭 =>
+https://github.com/QueenieCplusplus/PubSub_Python_App
 
 # 人工智慧與大數據
 
